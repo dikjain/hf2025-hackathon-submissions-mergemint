@@ -15,10 +15,10 @@ During Hacktoberfest I spoke with friends who wanted to join open source but fel
 ## Tech Stack
 - Next.js  
 - Tailwind CSS  
-- Solana (client side)
-- Appwrite (function and deployment)  
+- Solana (client side)  
+- Appwrite (Functions + Sites)  
 - GitHub Webhooks  
-- Supabase (database and authentication)
+- Supabase (database & auth)  
 
 ### Appwrite products
 - [ ] Auth
@@ -36,4 +36,6 @@ https://github.com/dikjain/mergemint
 https://mergemint.appwrite.network
 
 ## Demo Video/Photos
-https://www.youtube.com/watch?v=u7ycN4Is8Y0
+https://www.youtube.com/watch?v=u7ycN4Is8Y0  
+
+*( i forgot to mention that mergemint is currently a prototype with a clear plan to scale; i'm hoping that redemption pools will be funded through partnerships with open-source-friendly companies or through Solana ecosystem grants.)*
