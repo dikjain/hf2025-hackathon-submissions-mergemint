@@ -7,7 +7,7 @@ dikjain
 mergemint
 
 ## Project Description
-mergemint is a platform that turns open-source contribution into a game: repository owners connect GitHub via a webhook, and every PR that gets merged earns the contributor “MM points.” These points appear in a personal dashboard and can be redeemed for Solana SPL tokens listed in the built-in store. The goal is to give beginners a tangible incentive to make their first open-source commits while helping maintainers attract fresh contributors.
+mergemint is a platform that turns open-source contribution into a game: repository owners connect GitHub via a webhook, and every PR that gets merged earns the contributor “MM points.” These points appear in a personal dashboard and can be redeemed for Solana SPL tokens listed in the built-in store. Our goal is to ensure that even the smallest contributor is rewarded and feels motivated to keep contributing, while maintainers attract fresh talent.
 
 ## Inspiration behind the Project
 During Hacktoberfest I spoke with friends who wanted to join open source but felt blocked: most bounty-backed issues are too advanced for beginners, so enthusiasm fades quickly. mergemint flips that dynamic—encouraging newcomers to launch their own open-source ideas on the Solana blockchain instead of hunting for “easy” issues—so they stay motivated while still giving back to the community.
@@ -36,4 +36,4 @@ https://github.com/dikjain/mergemint
 https://mergemint.appwrite.network
 
 ## Demo Video/Photos
-<ASK – YouTube/Vimeo link or screenshots>
+https://www.youtube.com/watch?v=u7ycN4Is8Y0
